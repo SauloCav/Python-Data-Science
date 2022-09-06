@@ -15,4 +15,27 @@
 13.7 8.6 14.9 10.2 14.0 10.5 15.0 5.2 10.0 11.7 18.7 9.3 7.9 6.5 11.5 12.0 8.3 8.3 9.8 4.7
 
 
+### 02- Identifique cada uma das variáveis seguintes como quantitativa, qualitativa e como contínua, discreta, nominal, ordinal.
 
+- A concentração de impurezas em uma amostra de leite, em mg por litro.
+- A opinião de um indivíduo em relação a gestão de um determinado politico em cargo executivo:
+
+1. Ótima;
+2. Boa;
+3. Regular;
+4. Ruim;
+5. Péssima;
+
+- O tempo de reação de um indivíduo após submetido a certo estímulo.
+- O número de moradores em cada residência de uma cidade.
+- A temperatura de certa região, em determinada época do ano.
+- A produção por hectare de determinado tipo de grão.
+
+
+### 03- Os dados listados a seguir representam o número de assaltos sofridos pelas 20 padarias de um bairro no último ano.
+
+1 3 5 3 2 0 1 2 6 3 4 2 1 4 6 11 9 10 18 4
+
+- Calcule a média e mediana dos dados. Discuta a diferença entre elas.
+- Calcule a variância e desvio padrão. Os dados possuem alta variabilidade?
+- Faça a representação em box-plot da série.
