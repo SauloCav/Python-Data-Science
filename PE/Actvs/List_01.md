@@ -39,3 +39,21 @@
 - Calcule a média e mediana dos dados. Discuta a diferença entre elas.
 - Calcule a variância e desvio padrão. Os dados possuem alta variabilidade?
 - Faça a representação em box-plot da série.
+
+
+### 04- Os dados a seguir equivalem às temperaturas de efluentes descarregados de uma estação de tratamento em dias consecutivos:
+
+43 45 49 47 52 45 51 46 44 48 51 50
+52 44 48 50 49 50 46 46 49 49 51 50
+
+Determine:
+- A média amostral e a mediana ;
+- A variância e o desvio padrão amostral ;
+- Construa um diagrama de caixa (box-plot), com seus respectivos rótulos: quartis, mediana e outliers, se existirem.
+- Construa um histograma com 5 bins;
+
+
+### 5- Para a série de dados calcule a média amostral e o desvio padrão amostral. Construa também um gráfico de dispersão para a série.
+
+96 96 102 102 102 104 104 108 126
+126 128 128 140 156 160 160 164 170
