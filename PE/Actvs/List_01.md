@@ -65,10 +65,13 @@ F&N A&M CE F&N <br>
 CE F&N F&N A&M <br>
 CE F&N CE L&L <br>
 
+### 07- Dada a série de dados a seguir:
+94.1 86.1 95.3 84.9 88.8 84.6 <br>
+94.4 84.1 90.6 89.1 97.8 89.6 <br>
+85.1 85.4 98.0 82.9 91.4 87.3 <br>
+93.1 90.3 84.0 89.7 85.4 87.3 <br>
 
-
-
-
-
-
-
+- Determinar os quartis e, mediana e a média amostral;
+- Construa um box-plot para essa série. Identifique, no diagrama, os quartis e a mediana;
+- Determine o tamanho apropriado para os intervalos das classes e construa uma tabela de distribuições das respectivas frequências relativa, absoluta e acumulada;
+- Construa um histograma com 6 bins;
