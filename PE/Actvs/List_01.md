@@ -43,7 +43,7 @@
 
 ### 04- Os dados a seguir equivalem às temperaturas de efluentes descarregados de uma estação de tratamento em dias consecutivos:
 
-43 45 49 47 52 45 51 46 44 48 51 50
+43 45 49 47 52 45 51 46 44 48 51 50 \n
 52 44 48 50 49 50 46 46 49 49 51 50
 
 Determine:
@@ -53,7 +53,22 @@ Determine:
 - Construa um histograma com 5 bins;
 
 
-### 5- Para a série de dados calcule a média amostral e o desvio padrão amostral. Construa também um gráfico de dispersão para a série.
+### 05- Para a série de dados calcule a média amostral e o desvio padrão amostral. Construa também um gráfico de dispersão para a série.
 
-96 96 102 102 102 104 104 108 126
+96 96 102 102 102 104 104 108 126 \n
 126 128 128 140 156 160 160 164 170
+
+### 06- Um professor pergunta a cada um de seus alunos que ramo do conhecimento prefere estudar: Línguas e Literatura (L&L), Ciências Exatas (CE), Ciências Físicas e Naturais (F&N), Artes e Música (A&M). Organize a distribuição das frequências com as respostas abaixo e construa um gráfico de barras.
+A&M L&L F&N A&M F&N \n
+L&L L&L L&L L&L A&M \n
+F&N A&M CE F&N \n
+CE F&N F&N A&M \n
+CE F&N CE L&L \n
+
+
+
+
+
+
+
+
