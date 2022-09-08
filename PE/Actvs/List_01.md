@@ -92,4 +92,15 @@ CE F&N CE L&L <br>
 - Desenhe um box-plot para a série.
 
 
+9- Construa uma tabela com as distribuições de frequência absoluta, relativa, absoluta acumulada e relativa
+acumulada usando a amostra do número de páginas de livros infanto-juvenis dada por:
+46 46 53 30 62 50 69 49 58 65 <br>
+62 52 44 38 33 60 50 39 53 50 <br>
+64 53 45 38 31 41 56 54 38 42 <br>
+31 38 66 29 41 55 43 50 40 45 <br>
 
+- Construa um histograma com a densidade de frequência, e um gráfico de ramo-e-folhas. O que você pode interpretar destes dados a partir da tabela e dos gráficos?
+
+
+10- A distribuição das estaturas, em centímetros, de alunos de um curso colegial está representada na tabela de
+frequência abaixo. Calcule a média, a variância, e o desvio-padrão das estaturas.
