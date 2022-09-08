@@ -58,12 +58,14 @@ Determine:
 96 96 102 102 102 104 104 108 126 <br>
 126 128 128 140 156 160 160 164 170
 
+
 ### 06- Um professor pergunta a cada um de seus alunos que ramo do conhecimento prefere estudar: Línguas e Literatura (L&L), Ciências Exatas (CE), Ciências Físicas e Naturais (F&N), Artes e Música (A&M). Organize a distribuição das frequências com as respostas abaixo e construa um gráfico de barras.
 A&M L&L F&N A&M F&N <br>
 L&L L&L L&L L&L A&M <br>
 F&N A&M CE F&N <br>
 CE F&N F&N A&M <br>
 CE F&N CE L&L <br>
+
 
 ### 07- Dada a série de dados a seguir:
 94.1 86.1 95.3 84.9 88.8 84.6 <br>
@@ -75,3 +77,19 @@ CE F&N CE L&L <br>
 - Construa um box-plot para essa série. Identifique, no diagrama, os quartis e a mediana;
 - Determine o tamanho apropriado para os intervalos das classes e construa uma tabela de distribuições das respectivas frequências relativa, absoluta e acumulada;
 - Construa um histograma com 6 bins;
+
+
+8- Os dados abaixo referem-se a dureza de 30 peças de alumínio:
+53.0 53.4 95.4 53.5 72.3 70.2 <br>
+82.5 51.1 64.3 59.5 84.3 67.3 <br>
+74.4 82.7 55.3 69.5 54.1 55.7 <br>
+78.5 73.0 77.8 70.5 63.5 55.7 <br>
+52.4 87.5 71.4 85.8 69.1 50.7 <br>
+
+- Faça uma tabela de distribuição de frequências;
+- Calcule média, mediana e desvio padrão;
+- Apresente um histograma dos dados com 5 bins;
+- Desenhe um box-plot para a série.
+
+
+
