@@ -102,8 +102,7 @@ acumulada usando a amostra do número de páginas de livros infanto-juvenis dada
 - Construa um histograma com a densidade de frequência, e um gráfico de ramo-e-folhas. O que você pode interpretar destes dados a partir da tabela e dos gráficos?
 
 
-### 10- A distribuição das estaturas, em centímetros, de alunos de um curso colegial está representada na tabela de
-frequência abaixo. Calcule a média, a variância, e o desvio-padrão das estaturas.
+### 10- A distribuição das estaturas, em centímetros, de alunos de um curso colegial está representada na tabela de frequência abaixo. Calcule a média, a variância, e o desvio-padrão das estaturas. <br>
 Classes: <br>
 135 - 145 <br>
 145 - 155 <br>
