@@ -79,7 +79,7 @@ CE F&N CE L&L <br>
 - Construa um histograma com 6 bins;
 
 
-8- Os dados abaixo referem-se a dureza de 30 peças de alumínio:
+### 08- Os dados abaixo referem-se a dureza de 30 peças de alumínio:
 53.0 53.4 95.4 53.5 72.3 70.2 <br>
 82.5 51.1 64.3 59.5 84.3 67.3 <br>
 74.4 82.7 55.3 69.5 54.1 55.7 <br>
@@ -92,7 +92,7 @@ CE F&N CE L&L <br>
 - Desenhe um box-plot para a série.
 
 
-9- Construa uma tabela com as distribuições de frequência absoluta, relativa, absoluta acumulada e relativa
+### 09- Construa uma tabela com as distribuições de frequência absoluta, relativa, absoluta acumulada e relativa
 acumulada usando a amostra do número de páginas de livros infanto-juvenis dada por:
 46 46 53 30 62 50 69 49 58 65 <br>
 62 52 44 38 33 60 50 39 53 50 <br>
@@ -102,5 +102,20 @@ acumulada usando a amostra do número de páginas de livros infanto-juvenis dada
 - Construa um histograma com a densidade de frequência, e um gráfico de ramo-e-folhas. O que você pode interpretar destes dados a partir da tabela e dos gráficos?
 
 
-10- A distribuição das estaturas, em centímetros, de alunos de um curso colegial está representada na tabela de
+### 10- A distribuição das estaturas, em centímetros, de alunos de um curso colegial está representada na tabela de
 frequência abaixo. Calcule a média, a variância, e o desvio-padrão das estaturas.
+Classes: <br>
+135 - 145 <br>
+145 - 155 <br>
+155 - 165 <br>
+165 - 175 <br>
+175 - 185 <br>
+185 - 195 <br>
+
+Frequência:  <br>
+15 <br>
+150 <br>
+250 <br>
+70 <br>
+10 <br>
+5 <br>
